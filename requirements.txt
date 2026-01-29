@@ -1,0 +1,13 @@
+tensorflow
+tensorflow-datasets
+numpy
+opencv-python
+Pillow
+matplotlib
+scikit-learn
+tqdm
+
+# DeepLabV3+ backbone dependency (provides: classification_models.tfkeras)
+image-classifiers==0.2.0
+keras-preprocessing
+keras-applications
