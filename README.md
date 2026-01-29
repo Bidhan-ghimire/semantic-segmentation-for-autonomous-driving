@@ -6,16 +6,6 @@ This project was completed as a **capstone project** for the course **Introducti
 
 
 
-
-# Regarding the model:
-
-1. Patience for early stopping = 4
-2. Maximum number of epochs = 100
-3. THE MODEL DOESNOT REQUIRE ONE-HOT ENCODDED IMAGE MASKS
-4. The model needs as input image_size = [height,width] and number of classes
-5. There are two models for each of resnet 18 and 50
-
-
 # Notes on image-classifiers
 
 This project uses classification_models.tfkeras, which comes from the image-classifiers package.
@@ -91,4 +81,5 @@ Report
 The project report is available at:
 
 docs/report.pdf
+
 
