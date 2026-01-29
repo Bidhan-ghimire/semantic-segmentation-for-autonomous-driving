@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data and outputs
+data/
+saved_models/
+histories/
+tensorflow_datasets/
+*.npy
+
+# OS
+.DS_Store
