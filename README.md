@@ -18,6 +18,7 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Notes on `image-classifiers`
 
@@ -73,4 +74,5 @@ Datasets are **not** included in this repository. You must download them separat
 
 - `notebooks/04_cityscapes_experiments.ipynb`  
   Train and evaluate on Cityscapes using TFDS at different resolutions and backbones.
+
 
