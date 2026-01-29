@@ -4,6 +4,7 @@ This repository contains semantic segmentation experiments using **DeepLabV3+** 
 
 This project was completed as a **capstone project** for the course **Introduction to Deep Learning** taught by **Dr. Stephen Scott** at the **University of Nebraska-Lincoln (UNL)** in **Spring 2022**.
 
+# Please find the report in docs folder.
 
 
 # Notes on image-classifiers
@@ -81,5 +82,6 @@ Report
 The project report is available at:
 
 docs/report.pdf
+
 
 
