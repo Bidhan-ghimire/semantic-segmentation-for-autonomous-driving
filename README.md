@@ -16,7 +16,7 @@ This project was completed as a **capstone project** for the course **Introducti
 5. There are two models for each of resnet 18 and 50
 
 
-Notes on image-classifiers
+# Notes on image-classifiers
 
 This project uses classification_models.tfkeras, which comes from the image-classifiers package.
 
@@ -91,3 +91,4 @@ Report
 The project report is available at:
 
 docs/report.pdf
+
