@@ -12,6 +12,15 @@ The project report is available at:
 
 - `docs/report.pdf`
 
+  ## Compute environment (HPC)
+
+Training and evaluation for this project were performed on the University of Nebraska Holland Computing Center (HCC) high-performance computing resources:
+https://hcc.unl.edu/
+
+HCC supports running JupyterLab notebooks within Slurm jobs (for example via Open OnDemand). If you want to reproduce runs on HCC, the official docs are helpful:
+https://hcc.unl.edu/docs/applications/submitting_jupyter_code/
+
+
 ## Installation
 
 Install dependencies using:
@@ -74,5 +83,6 @@ Datasets are **not** included in this repository. You must download them separat
 
 - `notebooks/04_cityscapes_experiments.ipynb`  
   Train and evaluate on Cityscapes using TFDS at different resolutions and backbones.
+
 
 
